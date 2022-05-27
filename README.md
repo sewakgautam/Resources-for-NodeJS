@@ -5,11 +5,6 @@ Hello Idiots!!!, I am Very Happy that You have shown interest on the NodeJS,
 here are the Tips and Tricks as well as Resources to Learn NodeJS.
 
 
-
-
-
-
-
 - author: [sewakgautam](https://www.github.com/sewakgautam)
 
 
@@ -24,7 +19,10 @@ here are the Tips and Tricks as well as Resources to Learn NodeJS.
 
 ## Before You Start
 
-Node means not directly jumping on the Ocea of Backend.<br /> You Must have the basic Concept of the everything like , 
+Node means not directly jumping on the Ocean of Backend and Start to code the backend of the facebook. Backend is not any rocket science, it's the way how you process your brain and code logical solutions.<br /> You Must Have basic Concept on Node, some of them were listed down ⏬🔽
+ 
+[![Warning](https://img.shields.io/badge/Caution-You_must_have_basic_knowledge_of_JavaScript-red)](https://github.com/tterb/atomic-design-ui/blob/master/LICENSEs)
+
 - Node Modules
 - Global Objects
 - Modules
