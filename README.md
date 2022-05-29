@@ -37,6 +37,11 @@ Node means not directly jumping on the Ocean of Backend and Start to code the ba
 - Extending EventEmitter
 - HTTP Module
 
+## :open_book: If you were a Book reader
+
+Click Below image to download Book :down:
+[![Book Image](https://images-na.ssl-images-amazon.com/images/I/412lrkyvliL._SX379_BO1,204,203,200_.jpg)](https://usa1lib.org/book/2736891/90d6c2)
+
 ## Support
 
 For support, email hi@sewakgautam.com.np or Connect on Linkedin [sewakgautam](https://www.linkedin/in/sewakgtm).
