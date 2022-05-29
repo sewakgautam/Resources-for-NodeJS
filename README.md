@@ -42,6 +42,35 @@ Node means not directly jumping on the Ocean of Backend and Start to code the ba
 Click Below image to download Book  ⏬🔽 <br />
 [![Book Image](https://images-na.ssl-images-amazon.com/images/I/412lrkyvliL._SX379_BO1,204,203,200_.jpg)](https://usa1lib.org/book/2736891/90d6c2)
 
+### Above Book Contains
+ - Chapter 1 covers the Node Environment
+
+ - Chapter 2 covers Node Building Blocks including Global Objects, Events and Node’s Asynchronous Nature
+
+ - Chapter 3 covers the basics of Node Modules and Node Package Manager (npm)
+
+ - Chapter 4 talks about Interactive Node with REPL and More on the Console
+
+ - Chapter 5 talks about Node and the Web
+
+ - Chapter 6 talks about Node and the Local System
+
+ - Chapter 7 covers Networking, Sockets, and Security
+
+ - Chapter 8 covers Child Processes
+
+ - Chapter 9 covers Node and ES6
+
+ - Chapter 10 talks about Full-Stack Node Development
+
+ - Chapter 11 covers Node in Development and Production
+
+ - Chapter 12 talks about Node in new environments
+
+## Website for NodeJS
+if you dont wanna read Book here is the Cool Website<br /> Click here  
+[NodeJS Docs](https://nodejs.dev/learn)
+
 ## Support
 
 For support, email hi@sewakgautam.com.np or Connect on Linkedin [sewakgautam](https://www.linkedin/in/sewakgtm).
