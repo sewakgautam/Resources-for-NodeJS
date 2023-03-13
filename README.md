@@ -87,7 +87,7 @@ Click Below image to download Book  ⏬🔽 <br />
 
 ## Website for NodeJS
 if you dont wanna read Book here is the Cool Website<br /> Click here  
-[NodeJS Docs](https://nodejs.dev/learn)
+[NodeJS Docs](https://nodejs.dev/en/learn)
 
 ## Support
 
